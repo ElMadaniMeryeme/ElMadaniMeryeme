@@ -11,7 +11,7 @@ I'm from Morocco. I love programming, searching, and painting!
 
 ## My latest application with TG DEVELOPERS team:
 
-<img src='https://i.ibb.co/rMXJYPv/Whats-App-Video-2021-04-23-at-12-50-35-PM.gif' alt='Injaz App' height='100'>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rMXJYPv/Whats-App-Video-2021-04-23-at-12-50-35-PM.gif" alt="Injaz App" border="0" /></a>
 
 ## Skills: 
 Flutter / Dart / Java / C / C++ 
