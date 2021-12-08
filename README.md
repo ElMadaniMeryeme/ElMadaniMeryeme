@@ -11,12 +11,11 @@ I'm from Morocco. I love programming, searching, and painting!
 
 ## My latest application with TG DEVELOPERS team:
 
-<a href="https://ibb.co/hHTvb5C"><img src="https://i.ibb.co/rMXJYPv/Whats-App-Video-2021-04-23-at-12-50-35-PM.gif" alt="Injaz App" border="0"></a>
+
+![Whats-App-Video-2021-04-23-at-12-50-35-PM](https://user-images.githubusercontent.com/70059544/145212239-b1506870-d648-43ca-a45f-a72b8f0c23a7.gif)
 
 ## Skills: 
 Flutter / Dart / Java / C / C++ 
-
-
 
 
 
