@@ -3,7 +3,7 @@
 I'm from Morocco. I love programming, writing, and painting! 
 
 - 💼 I’m working in Vamill
-- 🌱 I’m currently learning Flutter 
+- 🌱 I'm always learning new things in my career 
 - 🌐 I’m looking to collaborate on new projects 
 - 📫 You can connect with me:   
 
@@ -11,7 +11,7 @@ I'm from Morocco. I love programming, writing, and painting!
 
 ## Skills: 
 
-HTML / CSS / Javascript / React JS
+HTML / CSS / Javascript / React JS 
 
 Flutter / Dart / Java / C / C++ 
 
